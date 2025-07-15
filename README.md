@@ -5,8 +5,8 @@ I'm **Piyush**, a B.Tech CSE student specializing in **Artificial Intelligence &
 
 🔧 Skilled in:
 - Python, JavaScript, HTML/CSS
-- MediaPipe, OpenCV, Scikit-learn
-- MongoDB, Supabase, Firebase
+- MediaPipe, OpenCV, Scikit-learn, TensorFlow, Keras
+- MongoDB, Supabase, Firebase, MySQL, PostGreSQL
 - Node.js, Express.js, Vite
 - Pandas, NumPy, Matplotlib
 
