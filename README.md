@@ -1,357 +1,193 @@
-# <div align="center">🌌 WELCOME TO THE MATRIX 🌌</div>
-
 <div align="center">
 
-```ascii
-██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
-██████╔╝██║ ╚████╔╝ ██║   ██║███████╗███████║
-██╔═══╝ ██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
-██║     ██║   ██║   ╚██████╔╝███████║██║  ██║
-╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<!-- ULTRA ANIMATED HEADER WITH GLITCH EFFECT -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=PIYUSH%20RATHORE&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20ARCHITECT%20|%20CODE%20ALCHEMIST%20|%20INNOVATION%20CATALYST%20⚡&descAlignY=55&descSize=18&stroke=00fff7&strokeWidth=2"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&width=1000&height=100&lines=AI+Engineer+%7C+Building+The+Future;Machine+Learning+Architect;Full+Stack+Sorcerer+🧙‍♂️;Hackathon+Champion+🏆;Breaking+Boundaries+With+Code;Innovation+Is+My+Language)](https://git.io/typing-svg)
+<!-- MATRIX RAIN ANIMATION -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code.%20Create.%20Conquer.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- ANIMATED TYPING WITH MULTIPLE EFFECTS -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=1500&pause=300&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=%F0%9F%A4%96+NEURAL+NETWORK+ARCHITECT;%F0%9F%94%A5+HACKATHON+DESTROYER;%F0%9F%9A%80+BUILDING+AGI+BEFORE+BREAKFAST;%E2%9A%A1+CTRL+%2B+ALT+%2B+DOMINATE;%F0%9F%8C%8C+TURNING+COFFEE+INTO+ALGORITHMS" alt="Typing SVG" /></a>
 
-![](https://komarev.com/ghpvc/?username=Piyush0000&color=00fff7&style=for-the-badge&label=VISITORS+HACKED+IN)
-![](https://img.shields.io/github/followers/Piyush0000?style=for-the-badge&color=00fff7&logo=github&label=FOLLOWERS)
-![](https://img.shields.io/github/stars/Piyush0000?style=for-the-badge&color=00fff7&logo=github&label=STARS)
+<!-- ANIMATED STATUS BADGES -->
+<p>
+<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00fff7?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117&animation=pulse"/>
+<img src="https://img.shields.io/badge/THREAT_LEVEL-MAXIMUM-ff0040?style=for-the-badge&logo=fire&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/COFFEE_LEVEL-∞-ff6b35?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=0d1117"/>
+</p>
 
-</div>
+<!-- ANIMATED COUNTERS -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=Piyush0000&color=00fff7&style=for-the-badge&label=SYSTEMS+INFILTRATED"/>
+<a href="https://github.com/Piyush0000?tab=followers"><img src="https://img.shields.io/github/followers/Piyush0000?style=for-the-badge&color=ff0040&logo=github&label=CULT+MEMBERS&labelColor=0d1117"/></a>
+<img src="https://img.shields.io/github/stars/Piyush0000?style=for-the-badge&color=ff6b35&logo=github&label=STARS+HARVESTED&labelColor=0d1117"/>
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> SYSTEM DIAGNOSTICS
+<!-- CYBERPUNK DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> IDENTITY MATRIX <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
-class PiyushRathore:
-    """
-    🤖 AI ENGINEER | 🚀 INNOVATOR | 💡 PROBLEM DESTROYER
-    """
-    
-    def __init__(self):
-        self.name = "Piyush Rathore"
-        self.role = "AI & ML Engineer + Full Stack Developer"
-        self.location = "🇮🇳 Delhi, India"
-        self.education = "B.Tech CSE (AI & ML) @ MAIT"
-        self.graduation = 2028
-        self.coffee_consumed = float('inf')  # ☕ Unlimited fuel
-        
-        self.current_mission = {
-            "primary": "Building AI solutions that matter",
-            "secondary": "Making the impossible possible",
-            "ultimate": "Changing the world, one commit at a time"
-        }
-        
-        self.superpowers = [
-            "🧠 Machine Learning Mastery",
-            "⚡ Lightning-Fast Development", 
-            "🎯 Problem-Solving Precision",
-            "🔥 Hackathon Domination",
-            "🌟 Innovation on Steroids"
-        ]
-        
-        self.achievements_unlocked = {
-            "🏆 National Hackathon": "TOP 4",
-            "🥈 Tech Challenge": "TOP 10", 
-            "💻 Projects Completed": "20+",
-            "🌟 GitHub Stars": "Growing...",
-            "☕ Coffee Cups": "Too many to count"
-        }
-    
-    def current_status(self):
-        return {
-            "🔥 Building": "Revolutionary AI Applications",
-            "📚 Learning": "Advanced Deep Learning & Computer Vision",
-            "💼 Available For": "Freelance | Internships | Collaborations",
-            "🎮 Side Quest": "Contributing to Open Source",
-            "😎 Mood": "Ready to break the internet"
-        }
-    
-    def execute(self):
-        while self.alive:
-            self.code()
-            self.learn()
-            self.innovate()
-            self.repeat()
-        return "Mission: Creating Impact ✓"
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
-# Initialize the legend
-piyush = PiyushRathore()
-print(piyush.execute())
+```js
+const PIYUSH = {
+    identity: {
+        name: "Piyush Rathore",
+        title: "AI/ML Engineer × Full Stack Sorcerer",
+        base: "Delhi, India 🇮🇳",
+        education: "B.Tech CSE (AI/ML) @ MAIT '28"
+    },
+    
+    powerLevels: {
+        AI_ML: "████████████████████ 100%",
+        fullStack: "█████████████████░░░ 85%",
+        problemSolving: "████████████████████ INFINITE",
+        caffeineAbsorption: "████████████████████ GODLIKE"
+    },
+    
+    currentQuests: [
+        "🧠 Training neural networks to think",
+        "🔮 Predicting the future with ML",
+        "⚡ Breaking things & making them better",
+        "🌌 Achieving digital immortality"
+    ],
+    
+    async executeLifeCycle() {
+        while (this.alive && this.caffeinated) {
+            await this.code();
+            await this.innovate();
+            await this.dominate();
+            // Sleep is for the weak
+        }
+    }
+};
 ```
 
-<div align="center">
-
-### 📡 SIGNAL TRANSMISSION
-
-[![Email](https://img.shields.io/badge/📧_Email-Hack_My_Inbox-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathorepiyush0000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyussshhh/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://piyush-dev-portfolio.vercel.app/)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-Follow_The_Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___piyushrathore___/)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Let's_Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919717704058)
-
-</div>
+<br clear="right"/>
 
 ---
 
-## ⚡ POWER LEVEL: OVER 9000!
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> WEAPON SYSTEMS ONLINE <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush0000&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00fff7&text_color=ffffff&icon_color=00fff7&border_color=00fff7&border_radius=15&count_private=true&include_all_commits=true&hide_border=false"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0000&theme=transparent&background=0d1117&ring=00fff7&fire=ff6b35&currStreakLabel=00fff7&sideLabels=ffffff&currStreakNum=ffffff&dates=888888&sideNums=00fff7&border=00fff7&stroke=00fff700&border_radius=15"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0000&layout=compact&theme=transparent&bg_color=0d1117&title_color=00fff7&text_color=ffffff&border_color=00fff7&border_radius=15&langs_count=10&hide_border=false"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush0000&theme=high-contrast&bg_color=0d1117&color=00fff7&line=ff6b35&point=ffffff&area=true&hide_border=false&border_radius=15&height=300&custom_title=Contribution%20Explosion%20💥"/>
-
-</div>
-
----
-
-## 🛠️ ARSENAL OF DESTRUCTION
-
-<div align="center">
-
-### ⚔️ WEAPONS OF CHOICE
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    🧠 AI & ML MASTERY                       ║
-╠══════════════════════════════════════════════════════════════╣
-║  TensorFlow  █████████████████░░░  95%  │  Masters         ║
-║  Keras       ████████████████░░░░  90%  │  Expert          ║
-║  PyTorch     ███████████████░░░░░  85%  │  Advanced        ║
-║  Scikit-Learn████████████████░░░░  90%  │  Expert          ║
-║  OpenCV      ████████████████░░░░  88%  │  Advanced        ║
-║  Pandas      ███████████████████░  95%  │  Masters         ║
-║  NumPy       ███████████████████░  97%  │  God Tier        ║
-╚══════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════╗
-║                  💻 CODING SUPREMACY                        ║
-╠══════════════════════════════════════════════════════════════╣
-║  Python      ████████████████████░  98%  │  God Tier        ║
-║  JavaScript  ████████████████░░░░  82%  │  Advanced        ║
-║  C++         ███████████████░░░░░  78%  │  Advanced        ║
-║  Java        ██████████████░░░░░░  72%  │  Proficient      ║
-║  SQL         ████████████████░░░░  85%  │  Advanced        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### 🚀 TECH STACK (THE INFINITY GAUNTLET)
-
-<table align="center">
+<!-- ANIMATED SKILL BARS -->
+<table>
 <tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
+<td width="50%">
+
+### 🧠 AI/ML ARSENAL
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark&perline=4"/>
+
+| WEAPON | MASTERY |
+|--------|---------|
+| Python | ![](https://geps.dev/progress/98?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+| TensorFlow | ![](https://geps.dev/progress/95?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+| PyTorch | ![](https://geps.dev/progress/88?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+| Scikit-Learn | ![](https://geps.dev/progress/92?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+| OpenCV | ![](https://geps.dev/progress/90?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+| Pandas/NumPy | ![](https://geps.dev/progress/97?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-<br>PyTorch
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-<br>OpenCV
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit" />
-<br>Scikit
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-<br>Django
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br>HTML
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br>CSS
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br>Supabase
+<td width="50%">
+
+### 💻 FULL STACK ARMORY
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express&theme=dark&perline=4"/>
+
+| WEAPON | MASTERY |
+|--------|---------|
+| React | ![](https://geps.dev/progress/85?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+| Node.js | ![](https://geps.dev/progress/82?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+| MongoDB | ![](https://geps.dev/progress/88?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+| Express | ![](https://geps.dev/progress/80?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+| JavaScript | ![](https://geps.dev/progress/85?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+| SQL | ![](https://geps.dev/progress/86?dangerColor=ff0040&warningColor=ff6b35&successColor=00fff7) |
+
 </td>
 </tr>
 </table>
 
-</div>
+<!-- ANIMATED TECH STACK ICONS -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,react,nodejs,mongodb,express,js,html,css,tailwind,git,github,docker,linux,vscode,cpp,java,mysql,postgres,django,supabase&theme=dark&perline=12"/>
+</p>
 
 ---
 
-## 🎯 LEGENDARY PROJECTS (HALL OF FAME)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  🔥 PROJECTS THAT CHANGED THE GAME 🔥                    ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-</div>
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30"> LEGENDARY ARTIFACTS <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 AI-POWERED MASTERPIECES
+### 💳 Credit Risk Oracle
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100%"/>
 
-#### 💳 **Credit Risk Prediction System**
 ```python
-accuracy = 85%  # Beat the banks!
-features = ["ML Model", "Real-time", "Streamlit"]
-status = "🔥 DEPLOYED"
+>>> model.accuracy
+0.85  # Banks HATE this one trick
+>>> status
+"🔥 DEPLOYED & DOMINATING"
 ```
-**Tech:** Python, Scikit-learn, Streamlit  
-**Impact:** Financial institutions eat your heart out  
-**Special:** Extra Trees Classifier dominance
+**Stack:** `Python` `Scikit-learn` `Streamlit`
 
----
-
-#### ❤️ **Heart Disease Predictor**
-```python
-lives_saved = "Potentially Thousands"
-precision = "Clinical Grade"
-```
-**Tech:** Pandas, NumPy, ML Algorithms  
-**Impact:** Healthcare revolution in code  
-**Special:** ROC curves that doctors dream about
-
----
-
-#### 🏋️ **Angle & Bicep Tracker**
-```python
-accuracy = "Real-time Precision"
-use_cases = ["Fitness", "Physiotherapy", "Sports"]
-```
-**Tech:** OpenCV, MediaPipe, Python  
-**Impact:** Your personal AI trainer  
-**Special:** Computer vision magic
+[![View](https://img.shields.io/badge/VIEW_PROJECT-00fff7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Piyush0000)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🌐 FULL STACK DOMINATION
+### ❤️ Cardiac Prophet
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%"/>
 
-#### 🔌 **Low Tension Lines Fault Detector**
-```javascript
-const status = "GAME CHANGER";
-const stack = "MERN + ML";
-const impact = "Preventing disasters";
-```
-**Tech:** MongoDB, Express, React, Node.js, Python  
-**Impact:** Saving lives through prediction  
-**Special:** ML meets infrastructure
-
----
-
-#### 🗣️ **Argumate - AI Debate Platform**
 ```python
-skills_improved = ["Communication", "Logic", "Rhetoric"]
-technology = "NLP on steroids"
+>>> lives_impacted
+"Potentially Thousands 💓"
+>>> precision
+"Clinical Grade ✓"
 ```
-**Tech:** Python, NLP, Web Tech  
-**Impact:** Making debaters elite  
-**Special:** AI judges your arguments
+**Stack:** `Pandas` `NumPy` `ML Algorithms`
 
----
+[![View](https://img.shields.io/badge/VIEW_PROJECT-ff0040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush0000)
 
-#### 🏥 **Ved Seva - Rural Healthcare**
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔌 Fault Terminator
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%"/>
+
 ```javascript
-reach = "Every village in India";
-mission = "Healthcare for all";
+const impact = {
+  disasters_prevented: "∞",
+  lives_saved: "Counting...",
+  status: "GAME CHANGER"
+};
 ```
-**Tech:** HTML, CSS, JS, Supabase  
-**Impact:** Bridging the healthcare gap  
-**Special:** Telemedicine revolution
+**Stack:** `MERN` `Python ML`
 
----
+[![View](https://img.shields.io/badge/VIEW_PROJECT-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush0000)
 
-#### 🚗 **ReviveWheels - Sustainability Hub**
+</td>
+<td width="50%">
+
+### 🏥 Ved Seva - Healthcare Revolution
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%"/>
+
 ```python
-mission = "Save the planet, one vehicle at a time"
-features = ["Recycling", "EV Conversion", "UPI"]
+>>> reach
+"Every village in India 🇮🇳"
+>>> mission
+"Healthcare for ALL"
 ```
-**Tech:** MERN Stack  
-**Impact:** Green transportation  
-**Special:** Making sustainability profitable
+**Stack:** `HTML` `CSS` `JS` `Supabase`
+
+[![View](https://img.shields.io/badge/VIEW_PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Piyush0000)
 
 </td>
 </tr>
@@ -359,209 +195,149 @@ features = ["Recycling", "EV Conversion", "UPI"]
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> BATTLE STATISTICS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush0000&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff0040&text_color=ffffff&ring_color=ff6b35" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0000&theme=radical&hide_border=true&background=0d1117&ring=00fff7&fire=ff0040&currStreakLabel=00fff7&sideLabels=ff6b35" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0000&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=ffffff" height="300"/>
+</p>
+
+<!-- ANIMATED CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush0000&custom_title=🔥%20NEURAL%20ACTIVITY%20DETECTED%20🔥&bg_color=0d1117&color=00fff7&line=ff0040&point=ff6b35&area=true&area_color=00fff7&hide_border=true"/>
+
+<!-- TROPHIES -->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Piyush0000&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> ACHIEVEMENT VAULT <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30">
 
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║           🎖️  HACKATHON WARRIOR STATUS  🎖️               ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║   🥇  TOP 4  →  National Level Hackathon                  ║
-║          ↳ Dominated competition with AI solution         ║
-║                                                            ║
-║   🥈  TOP 10 →  Inter-College Tech Challenge              ║
-║          ↳ Built under pressure, delivered perfection     ║
-║                                                            ║
-║   🏅  MULTIPLE WINS  →  College Competitions              ║
-║          ↳ Consistency is my middle name                  ║
-║                                                            ║
-║   💡  SPECIALTY  →  Healthcare, Legal Tech, Sustainability║
-║          ↳ Solving real problems, not toy projects        ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-### 🎨 TROPHY COLLECTION
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Piyush0000&theme=onestar&no-frame=true&no-bg=false&margin-w=4&column=7&row=2&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌟 OPEN SOURCE CONTRIBUTION WARRIOR
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  🌍 CONTRIBUTING TO THE GLOBAL CODE BASE               │
-└─────────────────────────────────────────────────────────┘
-```
-
-[![Social Winter of Code](https://img.shields.io/badge/🌨️_SWoC-Contributor-00fff7?style=for-the-badge&logo=github&logoColor=white)](https://swoc.tech)
-[![IWOC Season 3](https://img.shields.io/badge/💎_IWOC_S3-Contributor-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://iwoc.tech)
-
-**Domains:** Machine Learning • Full Stack • Educational Resources  
-**Mission:** Make the internet better, one commit at a time
-
-</div>
-
----
-
-## 🎓 CERTIFIED BADASS
-
-<div align="center">
-
-| 🎯 SKILL | 📜 CERTIFICATION | 🏢 AUTHORITY |
-|---------|-----------------|-------------|
-| Big Data | Big Data 101 | IBM SkillsBuild |
-| Data Analysis | Python Data Analysis | IBM SkillsBuild |
-| Data Science | ML & Data Science | Udemy |
-| Programming | Python, Java | HackerRank |
-| Databases | Data Fundamentals | IBM |
-
-</div>
-
----
-
-## 💪 COMMUNITY IMPACT
-
-<div align="center">
-
-```
-╭─────────────────────────────────────────────────────╮
-│  🚀 VENTURE LAB @ STARTUP SPHERE                   │
-│     • Innovation & Entrepreneurship                 │
-│     • Official Startup Society of MAIT             │
-│     • Building tomorrow's unicorns                  │
-├─────────────────────────────────────────────────────┤
-│  🤝 NATIONAL SERVICE SCHEME (NSS)                  │
-│     • Community Service & Social Impact            │
-│     • Leadership & Team Coordination               │
-│     • Making India better                          │
-╰─────────────────────────────────────────────────────╯
+╔═══════════════════════════════════════════════════════════════════════╗
+║  ⚔️  H A C K A T H O N   W A R R I O R   S T A T U S  ⚔️             ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                                                                       ║
+║  🥇 TOP 4 ──────────────────── National Level Hackathon               ║
+║     └─► Dominated 500+ teams with AI solution                         ║
+║                                                                       ║
+║  🥈 TOP 10 ─────────────────── Inter-College Tech Challenge           ║
+║     └─► Built under pressure, delivered perfection                    ║
+║                                                                       ║
+║  🏅 MULTIPLE WINS ──────────── College Competitions                   ║
+║     └─► Consistency is my superpower                                  ║
+║                                                                       ║
+║  💎 DOMAINS CONQUERED: Healthcare │ Legal Tech │ Sustainability       ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
-
-## 📈 CONTRIBUTION HEATMAP (I DON'T STOP)
-
-<div align="center">
-
-[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyush0000&theme=react-dark&bg_color=0d1117&color=00fff7&line=ff6b35&point=ffffff&area=true&hide_border=false&border_radius=15&height=400&custom_title=🔥%20Commit%20Domination%20🔥)](https://github.com/Piyush0000)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush0000&theme=transparent)
-
-</div>
+<!-- ANIMATED BADGES -->
+<p align="center">
+<img src="https://img.shields.io/badge/🏆_HACKATHONS_WON-5+-00fff7?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/💻_PROJECTS-20+-ff0040?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/☕_COFFEE_CONSUMED-∞-ff6b35?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🐛_BUGS_DESTROYED-9999+-00ff88?style=for-the-badge&labelColor=0d1117"/>
+</p>
 
 ---
 
-## 🎯 CURRENT MISSIONS
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> OPEN SOURCE RAIDS <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30">
+
+<p align="center">
+<a href="https://swoc.tech"><img src="https://img.shields.io/badge/❄️_SOCIAL_WINTER_OF_CODE-Contributor-00fff7?style=for-the-badge&logo=github&labelColor=0d1117"/></a>
+<a href="https://iwoc.tech"><img src="https://img.shields.io/badge/💎_IWOC_SEASON_3-Contributor-ff0040?style=for-the-badge&logo=github&labelColor=0d1117"/></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4c22-8f3e-eb5fcc18de42.gif" width="30"> TRANSMISSION CHANNELS <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4c22-8f3e-eb5fcc18de42.gif" width="30">
+
+<p align="center">
+<a href="mailto:rathorepiyush0000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/piyussshhh/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://piyush-dev-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/___piyushrathore___/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> THE PROPHECY <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30">
 
 <div align="center">
 
 ```python
-missions = {
-    "🔥 PRIMARY": "Building AI that changes lives",
-    "📚 LEARNING": "Advanced Deep Learning & Computer Vision",
-    "💼 SEEKING": "Freelance Projects | Internships | Collaborations",
-    "🌟 GOAL_2025": "Launch 10+ Revolutionary AI Projects",
-    "🚀 DREAM": "Startup that disrupts the industry"
-}
+class Destiny:
+    def __init__(self):
+        self.missions_2025 = [
+            "🚀 Launch 10+ Revolutionary AI Projects",
+            "🧠 Master Advanced Computer Vision & NLP",
+            "💼 Land Dream Internship at Top Tech Company",
+            "🌟 Hit 1000+ GitHub Stars",
+            "🦄 Build Startup That Changes The World"
+        ]
+    
+    def execute(self):
+        for mission in self.missions_2025:
+            print(f"[LOADING] {mission}")
+            self.complete(mission)
+        return "🎯 DESTINY FULFILLED"
 
-for mission, description in missions.items():
-    print(f"{mission}: {description}")
-    if mission == "🚀 DREAM":
-        print("⚡ Loading... 100% DETERMINED")
+# The prophecy has been written
+Destiny().execute()
 ```
 
 </div>
 
----
-
-## 💬 LEGENDARY QUOTES
-
-<div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  "Code is poetry. AI is magic.                  ┃
-┃   Together, they're unstoppable." - Piyush      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson)
-
-</div>
+<!-- ANIMATED QUOTE -->
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry.%20AI%20is%20magic.%20Together,%20they're%20unstoppable.&author=Piyush%20Rathore"/>
+</p>
 
 ---
 
-## 🎮 FUN FACTS ABOUT ME
+<!-- EPIC FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,2,5,30&section=footer&text=THANKS%20FOR%20VISITING%20🚀&fontSize=30&fontColor=fff&fontAlignY=70&animation=twinkling"/>
 
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&width=600&lines=⭐+STAR+MY+REPOS+IF+YOU'RE+IMPRESSED;🔔+FOLLOW+FOR+DAILY+INNOVATION;💬+LET'S+BUILD+SOMETHING+LEGENDARY"/>
+</p>
 
-```javascript
-const funFacts = {
-    coffeeDependency: "Critical ☕",
-    debuggingSkill: "God-tier 🐛",
-    sleepSchedule: "What's that? 😴",
-    favouriteLanguage: "Python (obviously) 🐍",
-    superpower: "Turning caffeine into code ⚡",
-    motto: "If it compiles, ship it! 🚀",
-    weakness: "Perfectly working code (too suspicious) 🤔",
-    spirit_animal: "Debugging duck 🦆"
-};
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+</p>
 
-console.log("This is the way.");
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🌠 THE JOURNEY CONTINUES...
-
-```
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║   💻 Building the future, one line at a time      ║
-║   🚀 Innovation is not a choice, it's a lifestyle ║
-║   🌟 Every bug fixed is a lesson learned          ║
-║   ⚡ Code. Debug. Deploy. Repeat.                 ║
-║   🎯 Making impossible → possible → easy          ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
-
-### 🔥 WANT TO COLLABORATE ON SOMETHING EPIC?
-
-[![Email Badge](https://img.shields.io/badge/📧_Let's_Talk-rathorepiyush0000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathorepiyush0000@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/🚀_Check_My_Work-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://piyush-dev-portfolio.vercel.app/)
-
----
-
-### ⭐ STAR MY REPOS | 🔔 FOLLOW FOR UPDATES | 💬 LET'S BUILD TOGETHER
-
-```python
-while True:
-    code()
-    learn()
-    innovate()
-    conquer()
-    # Repeat until world domination ⚡
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=0"/>
-
-**🎯 Remember: The best way to predict the future is to create it! 🚀**
-
-![](https://hit.yhype.me/github/profile?user_id=Piyush0000)
+<p align="center">
+<b>🎯 Remember: The best way to predict the future is to BUILD IT! 🚀</b>
+</p>
 
 </div>
