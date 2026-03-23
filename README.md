@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=380&color=0:0a0a0a,30:ff0040,70:8B5CF6,100:00fff7&text=PIYUSH%20RATHORE&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%E2%80%A2%20ML%20Architect%20%E2%80%A2%20Hackathon%20Champion&descAlignY=60&descSize=17&stroke=ff0040&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=380&color=0:0a0a0a,30:ff0040,70:8B5CF6,100:00fff7&text=PIYUSH%20RATHORE&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CTO%20%E2%80%A2%20Full%20Stack%20AI%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20OSS%20Maintainer&descAlignY=60&descSize=17&stroke=ff0040&strokeWidth=2"/>
 
 </div>
 
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=400&color=00FFF7&center=true&vCenter=true&repeat=true&width=860&height=45&lines=%E2%96%B8+MERN+Stack+%2B+AI%2FML+%E2%80%94+Full+Stack+Unleashed;%E2%96%B8+Top+4+%2F+500%2B+National+Hackathon+%F0%9F%94%A5;%E2%96%B8+B.Tech+CSE+(AI%2FML)+%40+MAIT%2C+Delhi+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%B8+Building+things+that+matter%2C+not+just+things+that+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=400&color=00FFF7&center=true&vCenter=true&repeat=true&width=860&height=45&lines=%E2%96%B8+CTO+%40+Startup+%E2%80%94+Architecting+production+systems;%E2%96%B8+Founder+%2B+Builder+%E2%80%94+shipped+products+with+real+users;%E2%96%B8+Top+4+%2F+500%2B+National+Hackathon+%F0%9F%94%A5;%E2%96%B8+OSS+Maintainer+%C2%B7+MERN+%2B+AI%2FML+%C2%B7+Delhi+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,15 +25,29 @@
 ## 👾 About Me
 
 ```
-  ROLE     →  Full Stack AI Engineer
+  ROLE     →  CTO @ Startup  |  Founder  |  Full Stack AI Engineer
   COLLEGE  →  B.Tech CSE (AI/ML) @ MAIT, Delhi  |  2024–2028
   STACK    →  MERN · Python · TensorFlow · FastAPI · Docker
-  FOCUS    →  AI-Powered Full Stack Applications
-  STATUS   →  Open to internships, collabs & freelance projects
+  FOCUS    →  Production AI Systems · SaaS Architecture · OSS
+  COMMUNITY→  Tech club founder — building the next wave of builders
+  STATUS   →  Open to collabs, partnerships & high-impact projects
   MOTTO    →  "Code today. Change tomorrow."
 ```
 
-I'm a first-year CS student who ships — not just studies. I've competed in national-level hackathons against hundreds of teams, built ML models that solve real problems, and contributed to open source. I care about work that lands in the real world, not just my portfolio.
+I'm a first-year CS student running a startup as CTO — architecting production systems, shipping SaaS products with real users, and maintaining open source. I've competed at national hackathon level, co-founded a tech community, and I build things that actually land in the real world.
+
+</div>
+
+---
+
+## 🚀 Current Roles
+
+| Role | What I'm doing |
+|------|---------------|
+| ⚙️ **CTO** | Leading technical architecture & engineering at a startup — system design, infra, team decisions |
+| 🏗️ **Founder** | Co-building a product with real users — from 0 to live |
+| 📦 **OSS Maintainer** | Maintaining open source projects, reviewing PRs, managing releases |
+| 🎓 **Community Builder** | Founded a tech club — running workshops, mentoring, and growing builders |
 
 ---
 
