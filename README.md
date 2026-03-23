@@ -34,7 +34,7 @@
   MOTTO    →  "Code today. Change tomorrow."
 ```
 
-I'm a first-year CS student running a startup as CTO — architecting production systems, shipping SaaS products with real users, and maintaining open source. I've competed at national hackathon level, co-founded a tech community, and I build things that actually land in the real world.
+I'm a second-year CS student running a startup as CTO — architecting production systems, shipping SaaS products with real users, and maintaining open source. I've competed at national hackathon level, co-founded a tech community, and I build things that actually land in the real world.
 
 </div>
 
