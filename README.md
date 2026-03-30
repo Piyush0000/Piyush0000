@@ -9,7 +9,7 @@
 
 <!-- Animated Typing Banner -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1800&pause=300&color=00FFF7&center=true&vCenter=true&repeat=true&width=900&height=40&lines=%E2%96%B8+Technical+Lead+%40+Evoc+Labs+%E2%80%94+shipping+real+production+systems;%E2%96%B8+Full+Stack+%2B+AI%2FML+%E2%80%94+MERN+%C2%B7+Python+%C2%B7+TensorFlow+%C2%B7+FastAPI;%E2%96%B8+Top+4+%2F+500%2B+National+Hackathon+%F0%9F%94%A5+%E2%80%94+Healthcare+%26+LegalTech+MVPs;%E2%96%B8+4+Internships+%C2%B7+Freelance+%C2%B7+SaaS+Co-founder+%C2%B7+OSS+Contributor;%E2%96%B8+B.Tech+CSE+%28AI%2FML%29+%40+MAIT%2C+Delhi+%7C+CGPA+7.2+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1800&pause=300&color=00FFF7&center=true&vCenter=true&repeat=true&width=900&height=40&lines=%E2%96%B8+Technical+Lead+%40+Evoc+Labs+%E2%80%94+shipping+real+production+systems;%E2%96%B8+Full+Stack+%2B+AI%2FML+%E2%80%94+MERN+%C2%B7+Python+%C2%B7+TensorFlow+%C2%B7+FastAPI;%E2%96%B8+Top+4+%2F+500%2B+National+Hackathon+%F0%9F%94%A5+%E2%80%94+Healthcare+%26+LegalTech+MVPs;%E2%96%B8+4+Internships+%C2%B7+Freelance+%C2%B7+SaaS+Co-founder+%C2%B7+OSS+Contributor;%E2%96%B8+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%C2%B7+Building+things+that+actually+ship" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -38,8 +38,6 @@ $ whoami
   ║  PIYUSH RATHORE — piyushrathorecodes@gmail.com          ║
   ╠══════════════════════════════════════════════════════════╣
   ║  ROLE     →  Technical Lead @ Evoc Labs (Startup)       ║
-  ║  COLLEGE  →  B.Tech CSE (AI/ML) @ MAIT, Delhi | 2028   ║
-  ║  CGPA     →  7.2 (till 3rd Semester)                    ║
   ║  STACK    →  MERN · Python · TensorFlow · FastAPI       ║
   ║  FOCUS    →  Production AI · SaaS Architecture · OSS    ║
   ║  INTERN   →  4x Internships across Full Stack & DB      ║
@@ -50,7 +48,7 @@ $ whoami
   ╚══════════════════════════════════════════════════════════╝
 ```
 
-> I'm a second-year CS student who has already shipped production systems across **4 internships**, co-founded a startup, built a freelance crypto trading bot, and delivered MVPs at national hackathon level. I don't just learn — I build, ship, and lead.
+> I've shipped production systems across **4 internships**, co-founded a startup, built a freelance crypto trading bot, and delivered MVPs at national hackathon level. I don't just learn — I build, ship, and lead.
 
 ---
 
