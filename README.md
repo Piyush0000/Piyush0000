@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0a0a0a,25:111827,60:0f172a,100:020617&text=Piyush%20Rathore&fontSize=68&fontColor=e2e8f0&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20%7C%20AI%2FML%20Engineer%20%7C%20Systems%20Architect&descAlignY=63&descSize=20&stroke=38bdf8&strokeWidth=1"/>
