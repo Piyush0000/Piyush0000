@@ -1,352 +1,373 @@
 <div align="center">
-
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=420&color=0:000000,20:0d0d0d,50:ff0040,80:8B5CF6,100:00fff7&text=PIYUSH%20RATHORE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Technical%20Lead%20%E2%80%A2%20Full%20Stack%20AI%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20OSS%20Builder&descAlignY=62&descSize=16&stroke=00fff7&strokeWidth=1.5"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0a,30:0f1923,70:0f1923,100:0a0a0a&text=Piyush%20Rathore&fontSize=64&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=I%20build%20systems%2C%20not%20just%20features&descAlignY=68&descSize=18&stroke=38bdf8&strokeWidth=1"/>
 </div>
-
-<div align="center">
-
-<!-- Animated Typing Banner -->
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1800&pause=300&color=00FFF7&center=true&vCenter=true&repeat=true&width=900&height=40&lines=%E2%96%B8+Technical+Lead+%40+Evoc+Labs+%E2%80%94+shipping+real+production+systems;%E2%96%B8+Full+Stack+%2B+AI%2FML+%E2%80%94+MERN+%C2%B7+Python+%C2%B7+TensorFlow+%C2%B7+FastAPI;%E2%96%B8+Top+4+%2F+500%2B+National+Hackathon+%F0%9F%94%A5+%E2%80%94+Healthcare+%26+LegalTech+MVPs;%E2%96%B8+4+Internships+%C2%B7+Freelance+%C2%B7+SaaS+Co-founder+%C2%B7+OSS+Contributor;%E2%96%B8+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%C2%B7+Building+things+that+actually+ship" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- Social Badges -->
-[![Gmail](https://img.shields.io/badge/piyushrathorecodes%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushrathorecodes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/piyussshhh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyussshhh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00fff7?style=for-the-badge&logo=vercel&logoColor=black)](https://piyush-dev-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Piyush0000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush0000)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Piyush0000&color=ff0040&style=flat-square&label=Profile+Views)](https://github.com/Piyush0000)
-[![GitHub Followers](https://img.shields.io/github/followers/Piyush0000?style=flat-square&color=8B5CF6&logo=github)](https://github.com/Piyush0000?tab=followers)
+<div align="center">
 
-</div>
-
----
-
-<!-- About Me Terminal Block -->
-## 👾 About Me
-
-```bash
-$ whoami
-  ╔══════════════════════════════════════════════════════════╗
-  ║  PIYUSH RATHORE — piyushrathorecodes@gmail.com          ║
-  ╠══════════════════════════════════════════════════════════╣
-  ║  ROLE     →  Technical Lead @ Evoc Labs (Startup)       ║
-  ║  STACK    →  MERN · Python · TensorFlow · FastAPI       ║
-  ║  FOCUS    →  Production AI · SaaS Architecture · OSS    ║
-  ║  INTERN   →  4x Internships across Full Stack & DB      ║
-  ║  HACKATHON→  Top 4 / 500+ teams nationally 🔥           ║
-  ║  COMMUNITY→  Startup Sphere · OSS Contributor           ║
-  ║  STATUS   →  Open to collabs · internships · freelance  ║
-  ║  MOTTO    →  "Code today. Change tomorrow."             ║
-  ╚══════════════════════════════════════════════════════════╝
+```
+Building production systems at the intersection of Full Stack, AI/ML, and distributed architecture.
+Co-Founder & CTO @ Evoc Labs · Freelance systems engineer · Hackathon finalist (Top 4/500+ nationally).
 ```
 
-> I've shipped production systems across **4 internships**, co-founded a startup, built a freelance crypto trading bot, and delivered MVPs at national hackathon level. I don't just learn — I build, ship, and lead.
+</div>
 
----
-
-<!-- Animated Skill Waves -->
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nextjs,nodejs,express,mongodb,postgres&theme=dark&perline=10"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi,flask,django,docker,git,supabase,firebase,figma&theme=dark&perline=10"/>
-
-</div>
-
----
-
-## 💼 Experience
 
 <div align="center">
-
-| Role | Company | Period | Highlights |
-|------|---------|--------|------------|
-| ⚙️ **Technical Lead** | Evoc Labs *(Startup)* | Dec 2025 — Present | Backend systems · API & DB integrations · Dev workflows |
-| 💻 **Software Dev Intern** | Oriental Solutions Pvt. Ltd. | Dec 2025 — Jan 2026 | AI bots · Python automation · Full stack features |
-| 🌐 **Full Stack Dev Intern** | TheBookShelves | Jul 2025 — Oct 2025 | RESTful APIs · MongoDB pipelines · React optimization |
-| 🗄️ **Database Dev Intern** | Analyzing.in | May 2025 — Jul 2025 | MySQL schema design · PHP server-side logic · Indexing |
-| 🏆 **Hackathon Builder** | National & College Level | 2024 — Present | Top 4/500+ · Healthcare & LegalTech MVPs in 48h |
+  
+[![Portfolio](https://img.shields.io/badge/piyush--dev--portfolio.vercel.app-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8&labelColor=0f172a)](https://piyush-dev-portfolio.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/piyussshhh-0f172a?style=flat-square&logo=linkedin&logoColor=38bdf8&labelColor=0f172a)](https://www.linkedin.com/in/piyussshhh/)&nbsp;
+[![Email](https://img.shields.io/badge/piyushrathorecodes%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=38bdf8&labelColor=0f172a)](mailto:piyushrathorecodes@gmail.com)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## What I actually do
 
-<div align="center">
+I design and ship systems end-to-end — from database schema to React UI to inference pipeline. My work spans freelance client delivery, co-founding a SaaS startup, and competitive hackathons. I care about architecture that scales and code that's maintainable by someone other than me.
 
-| 🏅 Award | 🎯 Event | 📊 Scale |
-|----------|---------|---------|
-| 🥇 **Top 4** | National Hackathon | 500+ Teams |
-| 🥈 **Top 10** | Inter-College Tech Challenge | Finalist |
-| 🏆 **Winner** | Multiple College Competitions | — |
-| 💎 **Contributor** | SWoC + IWOC Season 3 + GSSOC | Open Source |
-| 🤖 **Certified** | 5-Day AI Agents with Google | Intensive |
+Currently leading backend infrastructure at **Evoc Labs**, an early-stage e-commerce SaaS startup where I own system design, async job queues, multi-tenancy, and third-party integrations. Before that: 4 internships, 20+ shipped projects, and a Web3 trading platform I built for a freelance client.
 
-</div>
+**I'm most useful when the problem is:**
+- "We need to design this from scratch and it needs to scale"
+- "The pipeline is too slow / the schema is wrong / the API is a mess"  
+- "We need an ML model integrated into a real product, not a notebook"
 
 ---
 
-## ⚡ Tech Stack
+## System Design & Architecture
 
-**🧠 AI / ML & Data Science**
+The part of engineering I find most interesting is designing systems before writing them. Things I think about a lot:
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-
-**🌐 Full Stack (MERN + More)**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**🔧 Languages & DevTools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- **Multi-tenancy** — schema-per-tenant vs shared schema, isolation boundaries, permission propagation. Built this at Evoc Labs for an e-commerce SaaS.
+- **Async job systems** — Redis + BullMQ for deferred processing, retries, dead-letter queues. Prevents blocking APIs on heavy workloads.
+- **Data modeling at scale** — MongoDB aggregation pipelines vs relational joins, when Redis is the right layer, how to not regret your schema in 6 months.
+- **ML in production** — model serving (Streamlit, Flask, FastAPI), feature pipelines, when to pickle vs rebuild, browser-side inference with TensorFlow.js.
+- **WebSocket systems** — Socket.io for real-time dashboards, group coordination, live feeds. Used this in both a carpooling app and a power grid monitoring system.
 
 ---
 
-## 🔥 Featured Projects
+## Stack
 
-### ⚡ [Power Line Fault Detection](https://github.com/Piyush0000/powerline-fault-detection) — *National Hackathon · Top 4 / 500+*
-> Real-time AI fault detection for power transmission lines. Prevents outages before they cascade.
+**Languages**
 
-`MongoDB` `Express` `React` `Node.js` `TensorFlow.js` `Socket.io`
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=f59e0b)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8)
+![Java](https://img.shields.io/badge/Java_(DSA)-0f172a?style=flat-square&logo=openjdk&logoColor=f97316)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=38bdf8)
 
-- 📡 Live fault monitoring dashboard with real-time alerts
-- 🔮 Predictive maintenance engine to catch failures before they happen
-- ⚡ Built under 48h pressure — shipped, deployed, and demoed at national level
+**Backend & APIs**
 
-[![Live](https://img.shields.io/badge/LIVE-00fff7?style=for-the-badge&logo=vercel&logoColor=black)](https://powerline-monitor.vercel.app)
-[![Source](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush0000/powerline-fault-detection)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=4ade80)
+![Express](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=e2e8f0)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=4ade80)
+![Flask](https://img.shields.io/badge/Flask-0f172a?style=flat-square&logo=flask&logoColor=e2e8f0)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=e2e8f0)
+
+**Databases & Queues**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=4ade80)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=38bdf8)
+![Redis](https://img.shields.io/badge/Redis_+_BullMQ-0f172a?style=flat-square&logo=redis&logoColor=f87171)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=38bdf8)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=f97316)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=f97316)
+![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=chainlink&logoColor=38bdf8)
+![OpenCV](https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=4ade80)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0f172a?style=flat-square&logo=huggingface&logoColor=fbbf24)
+
+**RAG / Vector**
+
+![FAISS](https://img.shields.io/badge/FAISS-0f172a?style=flat-square&logo=meta&logoColor=38bdf8)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0f172a?style=flat-square&logo=databricks&logoColor=f97316)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8)
+![GCP](https://img.shields.io/badge/Google_Cloud-0f172a?style=flat-square&logo=googlecloud&logoColor=4ade80)
+![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=f97316)
+![Socket.io](https://img.shields.io/badge/Socket.io-0f172a?style=flat-square&logo=socket.io&logoColor=e2e8f0)
+![Web3.js](https://img.shields.io/badge/Web3.js-0f172a?style=flat-square&logo=web3dotjs&logoColor=f59e0b)
 
 ---
 
-### 🤖 [Auto Crypto Trading Platform](https://github.com/Piyush0000) — *Freelance · Production Bot*
-> Automated crypto signal generation + trade execution via Binance Testnet APIs.
+## Selected Projects
 
-`Node.js` `Python` `Trading Bot` `Binance Testnet API`
-
-- 📊 Automated signal processing and entry/exit order execution
-- 🛡️ Risk-rule–based position management engine
-- 🔧 Built end-to-end as a freelance client deliverable
+> Full list at [github.com/Piyush0000?tab=repositories](https://github.com/Piyush0000?tab=repositories). These are the ones worth reading about.
 
 ---
 
-### 🛒 [E-Commerce SaaS Platform](https://github.com/Piyush0000) — *Tech Lead · Shopify-like SaaS*
-> Merchants launch and manage their storefronts — from inventory to payments to marketing.
+### Evoc Labs — E-Commerce SaaS Platform
+*Co-Founder & CTO · Dec 2025 – Present*
 
-`MERN Stack` `Payments` `Admin Dashboard` `Marketing Integrations`
+Multi-tenant SaaS where merchants launch and manage storefronts. I own the backend architecture.
 
-- 🏪 Merchant panels with payments tracking and logistics flow
-- 📣 Marketing integrations and centralized website management
-- 🧩 Co-led architecture and core development across the full stack
+The hard problems here: tenant isolation without N schemas, async order processing that doesn't block the API layer, and logistics integrations that can fail gracefully. Solved with a shared-schema multi-tenancy model with row-level tenant scoping, Redis-backed BullMQ for job queues with retry logic, and a webhook abstraction layer over third-party logistics APIs.
+
+`Node.js` `MongoDB` `Redis` `BullMQ` `React` `Multi-tenancy` `Webhooks`
 
 ---
 
-### 🚗 [RideBuddy](https://github.com/Piyush0000/ridebuddy) — *Smart Carpooling · MERN + Maps*
-> Peer-to-peer carpooling for college students with real-time coordination.
+### [Power Line Fault Detection](https://github.com/Piyush0000/powerline-fault-detection) — *Top 4 / 500+ nationally*
+*48-hour hackathon build · National level*
+
+Real-time AI fault detection for power transmission infrastructure. The interesting constraint: the model runs **in-browser** via TensorFlow.js — no round-trip to a server for inference. Live dashboard streams sensor data over WebSockets, and the predictive maintenance engine flags degradation patterns before failure.
+
+Architecture decision I'd make the same again: browser-side inference kept latency under 100ms and removed a backend bottleneck. Trade-off was model size limits.
+
+`TensorFlow.js` `MERN` `Socket.io` `Computer Vision` `WebSockets`
+
+[![Live](https://img.shields.io/badge/Live_Demo-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8)](https://powerline-monitor.vercel.app)
+[![Source](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/Piyush0000/powerline-fault-detection)
+
+---
+
+### [LR21 — Web3 Trading & Analytics Platform](https://github.com/Piyush0000)
+*Freelance client delivery · Production*
+
+Full-stack crypto trading system with an AI trading bot, live price feeds, BNB Smart Chain integration, NFT marketplace, and DAO governance. Freelance project — delivered end-to-end, including architecture, smart contract integration, and the trading strategy engine.
+
+The trading bot uses automated signal generation with configurable entry/exit rules and a risk-management layer that enforces position size limits regardless of signal confidence.
+
+`Node.js` `React` `Web3.js` `BNB Chain` `Trading Bot` `Smart Contracts`
+
+---
+
+### [Credit Risk Prediction System](https://github.com/Piyush0000/credit-risk-prediction) — *85% accuracy*
+*ML · FinTech*
+
+Extra Trees Classifier with multi-model comparison (Random Forest, XGBoost, Logistic Regression). ROC/AUC analysis, SHAP-based feature importance, deployed on Streamlit with real-time scoring.
+
+The production detail that mattered: explainability. A model that outputs a score without a reason is useless in credit risk. Feature importance is surfaced per-prediction, not just globally.
+
+`Python` `Scikit-learn` `Streamlit` `Pandas` `NumPy` `SHAP`
+
+[![Live](https://img.shields.io/badge/Live_App-0f172a?style=flat-square&logo=streamlit&logoColor=f97316)](https://credit-risk-app.streamlit.app)
+[![Source](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/Piyush0000/credit-risk-prediction)
+
+---
+
+### [RideBuddy](https://github.com/Piyush0000/ridebuddy) — Carpooling Platform
+*MERN + Real-time*
+
+Peer-to-peer carpooling for college students. Map-based ride discovery, live location tracking, real-time group chat over Socket.io, cost-splitting calculator, JWT auth. The coordination problem (matching riders in real-time without race conditions) was the interesting engineering challenge here.
 
 `MERN` `Socket.io` `Google Maps API` `JWT`
 
-- 🗺️ Map-based ride discovery with live location tracking
-- 💬 Real-time group chat and ride coordination via Socket.io
-- 💰 Cost-sharing calculator and group formation features
-
-[![Source](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush0000/ridebuddy)
+[![Source](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/Piyush0000/ridebuddy)
 
 ---
 
-### 💳 [Credit Risk Prediction](https://github.com/Piyush0000/credit-risk-prediction) — *85% Accuracy · FinTech ML*
-> Intelligent credit scoring using Extra Trees Classifier — built for real financial decision-making.
+### [Argumate](https://github.com/Piyush0000/argumate) — AI Debate Coach
+*NLP · Flask*
 
-`Python` `Scikit-learn` `Streamlit` `Pandas` `NumPy`
-
-- 📈 Multi-model comparison with ROC/AUC visualizations
-- ⚡ Real-time risk scoring with feature importance breakdown
-- 🏭 Pickle-based model serving for production inference
-
-[![Live](https://img.shields.io/badge/LIVE-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)](https://credit-risk-app.streamlit.app)
-[![Source](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush0000/credit-risk-prediction)
-
----
-
-### 🏥 [Ved Seva](https://github.com/Piyush0000/ved-seva) — *Rural Healthcare · Social Impact*
-> Telemedicine platform closing India's rural healthcare gap — built for 700M+ underserved.
-
-`HTML5` `CSS3` `JavaScript` `Supabase`
-
-- 🩺 Virtual doctor consultations with appointment booking
-- 🚑 Emergency services portal and medicine delivery integration
-- 🔐 Auth + real-time DB powered by Supabase
-
-[![Live](https://img.shields.io/badge/LIVE-00fff7?style=for-the-badge&logo=vercel&logoColor=black)](https://ved-seva.vercel.app)
-[![Source](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush0000/ved-seva)
-
----
-
-### 🗣️ [Argumate](https://github.com/Piyush0000/argumate) — *AI Debate Coach · NLP*
-> AI-powered debate training. Detects logical fallacies, scores rhetoric, coaches in real-time.
+NLP pipeline for real-time argument analysis — fallacy detection, rhetorical scoring, coaching feedback. Uses NLTK + spaCy under the hood with a Flask API serving the frontend. The fallacy classifier was the hardest part: natural language arguments don't announce their fallacies cleanly.
 
 `Python` `NLTK` `spaCy` `Flask` `Sentiment Analysis`
 
-- 🧠 Argument strength scoring with fallacy detection engine
-- 💬 Real-time coaching feedback powered by NLP pipelines
-- 🔌 End-to-end Flask API serving analysis to the frontend
-
-[![Source](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush0000/argumate)
+[![Source](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/Piyush0000/argumate)
 
 ---
 
-### ❤️ [Heart Disease Predictor](https://github.com/Piyush0000/heart-disease-prediction) — *Clinical ML · Ensemble*
-> Random Forest + SVM + Logistic Regression ensemble cardiovascular risk detection.
+### [Ved Seva](https://github.com/Piyush0000/ved-seva) — Rural Telemedicine
+*Social Impact · Supabase*
 
-`Python` `Scikit-learn` `Streamlit`
+Telemedicine platform built for India's rural healthcare gap — virtual consultations, appointment booking, emergency portal, medicine delivery. Supabase handles auth and real-time DB. This one was about constraints: low-bandwidth users, feature phones, patchy connectivity. Kept JS bundle minimal, leaned on server-side logic, avoided anything requiring sustained connection.
 
-- 🫀 Multi-model ensemble voting with ROC/AUC analysis
-- 📋 Patient risk profiles with explainable feature weights
+`HTML5` `CSS3` `JavaScript` `Supabase`
 
-[![Live](https://img.shields.io/badge/LIVE-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)](https://heart-disease-app.streamlit.app)
-[![Source](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush0000/heart-disease-prediction)
-
----
-
-*→ [20+ more projects](https://github.com/Piyush0000?tab=repositories) spanning ML · MERN · OSS tools · trading bots · data pipelines*
+[![Live](https://img.shields.io/badge/Live_App-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8)](https://ved-seva.vercel.app)
+[![Source](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/Piyush0000/ved-seva)
 
 ---
 
-## 📊 GitHub Stats
+### [Heart Disease Predictor](https://github.com/Piyush0000/heart-disease-prediction) — Clinical ML Ensemble
+*Healthcare · Scikit-learn*
+
+Random Forest + SVM + Logistic Regression voting ensemble for cardiovascular risk classification. ROC/AUC analysis, explainable feature weights per patient profile, deployed on Streamlit.
+
+The ensemble approach here wasn't just academic — each model captures different decision boundaries. RF handles non-linear feature interactions, LR gives calibrated probability outputs, SVM covers edge cases near the decision boundary. Majority vote across three reduces individual model variance.
+
+`Python` `Scikit-learn` `Streamlit` `Ensemble Methods`
+
+[![Live](https://img.shields.io/badge/Live_App-0f172a?style=flat-square&logo=streamlit&logoColor=f97316)](https://heart-disease-app.streamlit.app)
+[![Source](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/Piyush0000/heart-disease-prediction)
+
+---
+
+*→ [20+ more projects](https://github.com/Piyush0000?tab=repositories) — data pipelines, OSS tools, automation scripts, more ML*
+
+---
+
+## How I approach engineering
+
+A few things I've learned from shipping across internships, freelance, and a startup:
+
+**Design the data model before writing any code.** Most performance problems and refactors I've seen trace back to a schema decision made in hour one. I spend more time on this than people expect.
+
+**Async by default for anything that might be slow.** API endpoints should return fast. If processing an order, sending an email, or running a model takes time — queue it. Redis + BullMQ has become my default answer here.
+
+**Explainability in ML is a product requirement, not a nice-to-have.** A model that says "denied" with no reason is rejected by users in any domain with stakes. I build feature importance and confidence surfacing in from the start.
+
+**The right database depends on the query, not the framework.** I use MongoDB when the document structure varies or when aggregation pipelines are the core access pattern. PostgreSQL when relations matter or the data is highly structured. Redis as a caching and queue layer, not a primary store. I don't have a default.
+
+**Real-time is a UX decision, not a technical one.** WebSockets add complexity. I only reach for Socket.io when polling genuinely isn't good enough for the user experience — not because real-time sounds impressive.
+
+---
+
+## Open Source
+
+Contributor across **IWOC Season 3**, **SWoC**, and **GSSoC** — code reviews, feature PRs, bug fixes, documentation improvements. I pick issues where I can understand the codebase deeply enough to not break something adjacent.
+
+Member of **Startup Sphere, MAIT** — the official college startup society. Involved in mentoring early builders and reviewing technical decisions.
+
+---
+
+## Certifications & Competitions
+
+| | |
+|---|---|
+| IBM SkillsBuild — Big Data 101 | IBM SkillsBuild — Data Analysis with Python |
+| IBM — Data Fundamentals | HackerRank — Python (Certified) |
+| HackerRank — Java (Certified) | Google — 5-Day AI Agents Intensive |
+| Kaggle — Python Coder Badge | Linux Foundation — LFD102: Open Source Dev |
+| Kaggle Competition — Ranked 1400/3433 (top 41%) | Udemy — Data Science & ML |
+
+---
+
+### [Ved Seva](https://github.com/Piyush0000/ved-seva) — Rural Telemedicine
+*Social Impact · Supabase*
+
+Telemedicine platform built for India's rural healthcare gap — virtual consultations, appointment booking, emergency portal, medicine delivery. Supabase handles auth and real-time DB. This one was about constraints: low-bandwidth users, patchy connectivity. Kept the JS bundle minimal, leaned on server-side logic, avoided anything requiring a sustained connection.
+
+`HTML5` `CSS3` `JavaScript` `Supabase`
+
+[![Live](https://img.shields.io/badge/Live_App-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8)](https://ved-seva.vercel.app)
+[![Source](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/Piyush0000/ved-seva)
+
+---
+
+### [Heart Disease Predictor](https://github.com/Piyush0000/heart-disease-prediction) — Clinical ML Ensemble
+*Healthcare · Scikit-learn*
+
+Random Forest + SVM + Logistic Regression voting ensemble for cardiovascular risk classification. ROC/AUC analysis, explainable feature weights per patient profile, Streamlit-deployed.
+
+The ensemble wasn't just academic — each model captures different decision boundaries. RF handles non-linear feature interactions, LR gives calibrated probability outputs, SVM covers edge cases near the boundary. Majority vote across three reduces individual model variance.
+
+`Python` `Scikit-learn` `Streamlit` `Ensemble Methods`
+
+[![Live](https://img.shields.io/badge/Live_App-0f172a?style=flat-square&logo=streamlit&logoColor=f97316)](https://heart-disease-app.streamlit.app)
+[![Source](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/Piyush0000/heart-disease-prediction)
+
+---
+
+*→ [20+ more projects](https://github.com/Piyush0000?tab=repositories) — data pipelines, OSS tools, automation scripts, more ML*
+
+---
+
+## How I approach engineering
+
+A few things I've learned from shipping across internships, freelance, and a startup:
+
+**Design the data model before writing any code.** Most performance problems and painful refactors trace back to a schema decision made in hour one. I spend more time here than people expect, and it pays off.
+
+**Async by default for anything that might be slow.** API endpoints should return fast. If processing an order, sending an email, or running a model takes time — queue it. Redis + BullMQ is my default answer. Dead-letter queues and retry logic aren't optional.
+
+**Explainability in ML is a product requirement, not a nice-to-have.** A model that outputs "denied" with no reason gets rejected by users in any high-stakes domain. I build feature importance and confidence surfacing in from day one.
+
+**The right database depends on the query pattern, not the stack.** MongoDB when document structure varies or aggregation pipelines are the core access pattern. PostgreSQL when relations and integrity matter. Redis as a cache and queue layer, not a primary store. I don't have a default — I pick based on what the data actually looks like and how it'll be read.
+
+**Real-time is a UX decision, not a technical flex.** WebSockets add operational complexity. I only reach for Socket.io when polling genuinely isn't good enough for the user experience — not because real-time sounds impressive.
+
+**In a hackathon, the right architecture is the one you can demo in 48 hours.** Some decisions that are wrong in production are exactly right under time pressure. Knowing which is which is a skill.
+
+---
+
+## Open Source
+
+Contributor across **IWOC Season 3**, **SWoC**, and **GSSoC** — feature PRs, bug fixes, code reviews, documentation. I pick issues where I can understand the codebase well enough to not break something adjacent to what I'm touching.
+
+Member of **Startup Sphere, MAIT** — the official college startup society. Involved in mentoring early builders and reviewing technical decisions on early-stage projects.
+
+---
+
+## Certifications
+
+| | |
+|---|---|
+| IBM SkillsBuild — Big Data 101 | IBM SkillsBuild — Data Analysis with Python |
+| IBM — Data Fundamentals | HackerRank — Python (Certified) |
+| HackerRank — Java (Certified) | Google — 5-Day AI Agents Intensive |
+| Kaggle — Python Coder Badge | Linux Foundation — LFD102: Open Source Dev |
+| Kaggle Competition — Ranked 1400 / 3433 (top 41%) | Udemy — Data Science & ML Bootcamp |
+
+---
+
+## Freelance
+
+Open to freelance engagements. Here's what working with me looks like:
+
+**What I take on:**
+- **Backend architecture** — greenfield system design, API design, schema design, async job pipelines, third-party integrations
+- **ML in production** — taking a model from notebook to a served API with explainability, monitoring, and a real UI
+- **Full-stack builds** — MERN / Next.js products from zero to deployed, with handoff docs
+- **Web3 / DeFi** — smart contract integration, automated trading systems, on-chain analytics
+- **Rescue projects** — slow APIs, broken schemas, unmaintainable codebases. I'll read what's there before rewriting anything.
+
+**What to expect:**
+I scope before I code. First conversation is about requirements, edge cases, and trade-offs — not time estimates. I deliver with documentation (architecture decisions, API contracts, deployment notes) so the next engineer isn't starting blind.
+
+**Availability:** Delhi, India · Remote-first · Open to async collaboration across time zones.
+
+Reach out: [piyushrathorecodes@gmail.com](mailto:piyushrathorecodes@gmail.com)
+
+---
+
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush0000&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff0040&text_color=ffffff&include_all_commits=true&count_private=true" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0000&theme=radical&hide_border=true&background=0d1117&ring=00fff7&fire=ff0040&currStreakLabel=00fff7" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush0000&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0000&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush0000&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area=true&area_color=1e3a5f&hide_border=true" width="92%"/>
+</div>
+
+---
+
+## Education
+
+**B.Tech Computer Science (AIML specialization)** — Maharaja Agrasen Institute of Technology, New Delhi  
+*Expected 2028 · CGPA 7.4*
+
+Core: Data Structures & Algorithms · OOP · DBMS · Machine Learning
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f1923,50:0f1923,100:0a0a0a&section=footer&text=Let%27s+build+something+that+ships.&fontSize=20&fontColor=38bdf8&animation=fadeIn&fontAlignY=65"/>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=38bdf8&labelColor=0f172a)](mailto:piyushrathorecodes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=38bdf8&labelColor=0f172a)](https://www.linkedin.com/in/piyussshhh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8&labelColor=0f172a)](https://piyush-dev-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=e2e8f0&labelColor=0f172a)](https://github.com/Piyush0000)
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0000&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=ffffff&langs_count=10" height="200"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush0000&custom_title=Contribution+Graph&bg_color=0d1117&color=00fff7&line=ff0040&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true" width="95%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush0000&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=6"/>
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| Issuer | Certification | Link |
-|--------|---------------|------|
-| 🔵 IBM SkillsBuild | Big Data 101 | [View](https://skills.yourlearning.ibm.com/) |
-| 🔵 IBM SkillsBuild | Data Analysis with Python | [View](https://skills.yourlearning.ibm.com/) |
-| 🔵 IBM | Data Fundamentals | [View](https://skills.yourlearning.ibm.com/) |
-| 🟣 Udemy | Data Science & Machine Learning | [View](https://udemy.com) |
-| 🟢 HackerRank | Python (Certified) | [View](https://hackerrank.com) |
-| 🟢 HackerRank | Java (Certified) | [View](https://hackerrank.com) |
-| 🤖 Google | 5-Day AI Agents Intensive | [View](https://kaggle.com) |
-| 🐍 Kaggle | Python Coder Badge | [View](https://kaggle.com) |
-| 🌐 Linux Foundation | LFD102: Open Source Dev | [View](https://training.linuxfoundation.org) |
-
-</div>
-
----
-
-## 🌱 Leadership & Community
-
-<div align="center">
-
-| 🏛️ Role | 📌 Organisation | 💡 Impact |
-|---------|--------------|---------|
-| 🚀 **Venture Lab Member** | Startup Sphere, MAIT | Official startup society — building founders |
-| 🤝 **OSS Contributor** | IWOC S3 · SWOC · GSSOC | Code reviews, feature PRs, community projects |
-| 🎤 **Hackathon Competitor** | National + College Level | Top placements · team leadership · rapid MVPs |
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush0000/Piyush0000/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush0000/Piyush0000/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Piyush0000/Piyush0000/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<!-- Footer Wave -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00fff7,40:8B5CF6,100:ff0040&section=footer&text=Let%27s+build+something+legendary.&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
-
-<br/>
-
-**📬 Open to collabs · internships · freelance · anything interesting**
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushrathorecodes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyussshhh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00fff7)](https://piyush-dev-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush0000)
-
-<br/><br/>
-
-> *"The best way to predict the future is to build it."*
-
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<sub>Delhi, India · B.Tech CS/AIML @ MAIT · Expected 2028</sub>
 
 </div>
