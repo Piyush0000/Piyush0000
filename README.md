@@ -4,7 +4,14 @@
 
 <br/>
 
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+production-grade+distributed+systems;Co-Founder+%26+CTO+%40+Evoc+Labs+%E2%80%94+20%2B+merchants+in+prod;Architecting+microservices%2C+RAG+pipelines+%26+GKE+clusters;Top+4+%2F+500%2B+National+Hackathon+Finalist;Scaling+ideas+from+0+to+production"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
 
 <br/>
 
@@ -161,6 +168,35 @@ Focused On:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+## 🧭 My Journey — Architected as a Pipeline
+
+```mermaid
+flowchart LR
+    A["🎓 MAIT, New Delhi\nB.Tech CSE (AI/ML)\n2024 – 2028"]:::edu
+    B["🌐 TheBookShelves\nFull Stack Intern\nJul–Oct 2025"]:::stage
+    C["🏦 Oriental Solutions\nSDE Intern — AI bots\nDec 2025–Jan 2026"]:::stage
+    D["🚀 Evoc Labs\nCo-Founder & CTO\nDec 2025 – Present"]:::flagship
+    E["🏫 Delhi School of Mgmt\nWeb Dev Intern\nFeb–Mar 2026"]:::stage
+    F["📦 Modulus Seventeen\nFull Stack Intern\nAug–Sep 2026"]:::stage
+    G["🏆 Top 4 / 500+\nNational Hackathon\n+ 20 Production Projects"]:::milestone
+
+    A --> B --> C --> D
+    D --> E --> F --> G
+
+    classDef edu fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#e2e8f0
+    classDef stage fill:#111827,stroke:#64748b,stroke-width:1.5px,color:#cbd5e1
+    classDef flagship fill:#0a2540,stroke:#38bdf8,stroke-width:3px,color:#38bdf8
+    classDef milestone fill:#1e1b4b,stroke:#f97316,stroke-width:2px,color:#fbbf24
+```
+
+`0 → founding engineer` · `4 internships across AI, fintech, edtech & commerce` · `still building Evoc Labs in parallel`
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ## 🧠 System Design — AgentOS Architecture
 
 A snapshot of how I think about scaling stateless AI inference across a containerized cluster:
@@ -168,23 +204,23 @@ A snapshot of how I think about scaling stateless AI inference across a containe
 ```mermaid
 flowchart TB
     subgraph Client["Clients"]
-        Web["Next.js Web"]
-        Mob["React Native"]
+        Web["Next.js Web"]:::client
+        Mob["React Native"]:::client
     end
 
     subgraph Edge["API Layer"]
-        GW["Express Gateway"]
+        GW["Express Gateway"]:::edge
     end
 
     subgraph GKE["Google Kubernetes Engine — 11-service cluster"]
-        Orc["Orchestrator (gRPC)"]
-        Q["Redis FIFO Queue"]
-        Sand["Alpine Sandbox<br/>(ABAC policy engine)"]
-        Inf1["Gemini Worker"]
-        Inf2["Mistral Worker"]
+        Orc["Orchestrator (gRPC)"]:::core
+        Q["Redis FIFO Queue"]:::infra
+        Sand["Alpine Sandbox\n(ABAC policy engine)"]:::infra
+        Inf1["Gemini Worker"]:::ai
+        Inf2["Mistral Worker"]:::ai
     end
 
-    DB[("PostgreSQL<br/>Agent State / Checkpoints")]
+    DB[("PostgreSQL\nAgent State / Checkpoints")]:::db
 
     Web --> GW
     Mob --> GW
@@ -196,6 +232,13 @@ flowchart TB
     Sand -. isolates tool calls .-> Orc
     Orc --> DB
     DB -. resumable state .-> Orc
+
+    classDef client fill:#111827,stroke:#94a3b8,color:#e2e8f0
+    classDef edge fill:#0f172a,stroke:#38bdf8,color:#38bdf8
+    classDef core fill:#0a2540,stroke:#38bdf8,stroke-width:2px,color:#e2e8f0
+    classDef infra fill:#1e1b4b,stroke:#818cf8,color:#c7d2fe
+    classDef ai fill:#1c1917,stroke:#f97316,color:#fdba74
+    classDef db fill:#052e2b,stroke:#2dd4bf,color:#99f6e4
 ```
 
 `Zero duplicate LLM token spend` · `Prompt-injection & RCE isolation via sandboxed tool calls` · `Seamless resumption via checkpointed state`
@@ -382,13 +425,19 @@ Built production RESTful APIs (Node.js, Express) powering secure MongoDB data ac
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake &nbsp;·&nbsp; 🧊 3D Contribution Graph
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Piyush0000/Piyush0000/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub><i>(Requires the <a href="https://github.com/Platane/snk">snk GitHub Action</a> set up on your profile repo.)</i></sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Piyush0000/Piyush0000/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+<sub><i>(Requires the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> GitHub Action set up on your profile repo — generates this isometric 3D calendar automatically every day.)</i></sub>
 
 </div>
 
