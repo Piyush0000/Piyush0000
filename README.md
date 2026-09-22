@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+production-grade+systems+and+AI-powered+products;Full+Stack+Developer+%7C+ML+Engineer+%7C+Backend+Architect;Co-Founder+%26+CTO+%40+Evoc+Labs;Hackathon+Finalist+%7C+Open+Source+Contributor;Scaling+ideas+from+0+to+production"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+production-grade+distributed+systems;Co-Founder+%26+CTO+%40+Evoc+Labs+%E2%80%94+20%2B+merchants+in+prod;Architecting+microservices%2C+RAG+pipelines+%26+GKE+clusters;Top+4+%2F+500%2B+National+Hackathon+Finalist;Scaling+ideas+from+0+to+production"/>
 
 <br/>
 
@@ -20,17 +20,16 @@
 
 <div align="center">
 
-```
-
-  const engineer = {
-    name: "Piyush Rathore",
-    role: "Full Stack + AI/ML Engineer",
-    title: "Co-Founder & CTO @ Evoc Labs",
-    focus: ["Distributed Systems", "RAG/LLM Apps", "Real-time Infra"],
-    status: "🏆 Top 4 / 500+ National Hackathon Finalist",
-    currentlyShipping: true
-  };
-
+```ts
+const engineer = {
+  name: "Piyush Rathore",
+  role: "Full Stack + AI/ML Engineer",
+  title: "Co-Founder & CTO @ Evoc Labs",
+  education: "B.Tech CSE (AI/ML) @ MAIT, New Delhi — Class of 2028",
+  focus: ["Distributed Systems", "RAG / LLM Agent Infra", "Real-time & Event-driven Backends"],
+  status: "🏆 Top 4 / 500+ National Hackathon Finalist",
+  currentlyShipping: true,
+};
 ```
 
 </div>
@@ -55,17 +54,19 @@
 ```yaml
 Name:         Piyush Rathore
 Role:         Full Stack + AI/ML Engineer
-Location:     Delhi, India
+Location:     New Delhi, India
 Education:    B.Tech CSE (AI/ML) @ MAIT — Class of 2028
 
-Currently Building:
-  - Evoc Labs — Multi-tenant AI-powered D2C e-commerce SaaS (Co-Founder & CTO)
-  - Production-grade distributed systems & RAG pipelines
+Currently:
+  - Co-Founder & CTO @ Evoc Labs — multi-tenant, AI-powered B2B/D2C SaaS
+    → 20+ merchants in production, ~2,000 daily user sessions
+    → hundreds of concurrent COD orders/day at sub-second API latency
+  - Full Stack Developer Intern @ Modulus Seventeen — mobile-first commerce SaaS
 
-Currently Focused On:
+Focused On:
   - Distributed systems & system design at scale
   - Async-first, event-driven backend architecture
-  - AI product engineering (RAG, LLM apps, explainable ML)
+  - AI product engineering (RAG, LLM agent orchestration, explainable ML)
 
 2026 Goal: Ship systems that don't just work in a demo — they hold up in production.
 ```
@@ -79,7 +80,7 @@ Currently Focused On:
 <td width="50%">
 
 - 🏗️ Architect before scaling
-- ⚙️ Async-first backend design
+- ⚙️ Async-first, event-driven backend design
 - 🧪 Real-world ML > notebook ML
 
 </td>
@@ -87,7 +88,7 @@ Currently Focused On:
 
 - 🧹 Clean APIs, maintainable systems
 - 🚀 Performance is a feature, not an afterthought
-- 🔍 Explainability matters in AI systems
+- 🔍 Explainability & guardrails matter in AI systems
 
 </td>
 </tr>
@@ -103,39 +104,52 @@ Currently Focused On:
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,html,css,bash,mysql,postgres" />
 
-**Frontend**
+**Frontend & Mobile**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite,electron" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-0f172a?style=flat-square&logo=react&logoColor=38bdf8"/>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 <br/>
-<img src="https://img.shields.io/badge/REST_API-0f172a?style=flat-square&logo=fastapi&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/RESTful_APIs-0f172a?style=flat-square&logo=fastapi&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/gRPC-0f172a?style=flat-square&logo=googlecloud&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/WebSockets-0f172a?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/BullMQ-0f172a?style=flat-square&logo=redis&logoColor=f87171"/>
-<img src="https://img.shields.io/badge/JWT_Auth-0f172a?style=flat-square&logo=jsonwebtokens&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/Microservices-0f172a?style=flat-square&logo=kubernetes&logoColor=38bdf8"/>
 
-**AI / ML / Data**
+**AI / ML / Agents**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 <br/>
 <img src="https://img.shields.io/badge/Scikit--Learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=f59e0b"/>
 <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=chainlink&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/HuggingFace-0f172a?style=flat-square&logo=huggingface&logoColor=fbbf24"/>
+<img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square&logo=openai&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/FAISS-0f172a?style=flat-square&logo=meta&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/ChromaDB-0f172a?style=flat-square&logo=databricks&logoColor=f97316"/>
-<img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square&logo=openai&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/SHAP-0f172a?style=flat-square&logo=python&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Gemini-0f172a?style=flat-square&logo=googlegemini&logoColor=8ab4f8"/>
+<img src="https://img.shields.io/badge/Mistral-0f172a?style=flat-square&logo=mistralai&logoColor=fa520f"/>
 
-**Databases & Infra**
+**Databases, Infra & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,firebase,supabase,gcp,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,gcp,git,github,linux" />
 <br/>
+<img src="https://img.shields.io/badge/Google_Kubernetes_Engine-0f172a?style=flat-square&logo=kubernetes&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/Multi--Tenant_Architecture-0f172a?style=flat-square&logo=databricks&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/System_Design-0f172a?style=flat-square&logo=icloud&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/CI/CD-0f172a?style=flat-square&logo=githubactions&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Apache_Spark-0f172a?style=flat-square&logo=apachespark&logoColor=e25a1c"/>
+<img src="https://img.shields.io/badge/Hadoop_%7C_YARN_%7C_MapReduce-0f172a?style=flat-square&logo=apachehadoop&logoColor=66ccff"/>
+
+**Auth & Payments**
+<br/>
+<img src="https://img.shields.io/badge/JWT-0f172a?style=flat-square&logo=jsonwebtokens&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/OAuth-0f172a?style=flat-square&logo=auth0&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/RBAC_%7C_ABAC-0f172a?style=flat-square&logo=keycloak&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Razorpay-0f172a?style=flat-square&logo=razorpay&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/FCM-0f172a?style=flat-square&logo=firebase&logoColor=fbbf24"/>
 
 **Web3 & Blockchain**
 <br/>
@@ -144,6 +158,47 @@ Currently Focused On:
 <img src="https://img.shields.io/badge/BNB_Chain-0f172a?style=flat-square&logo=binance&logoColor=fbbf24"/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🧠 System Design — AgentOS Architecture
+
+A snapshot of how I think about scaling stateless AI inference across a containerized cluster:
+
+```mermaid
+flowchart TB
+    subgraph Client["Clients"]
+        Web["Next.js Web"]
+        Mob["React Native"]
+    end
+
+    subgraph Edge["API Layer"]
+        GW["Express Gateway"]
+    end
+
+    subgraph GKE["Google Kubernetes Engine — 11-service cluster"]
+        Orc["Orchestrator (gRPC)"]
+        Q["Redis FIFO Queue"]
+        Sand["Alpine Sandbox<br/>(ABAC policy engine)"]
+        Inf1["Gemini Worker"]
+        Inf2["Mistral Worker"]
+    end
+
+    DB[("PostgreSQL<br/>Agent State / Checkpoints")]
+
+    Web --> GW
+    Mob --> GW
+    GW --> Orc
+    Orc --> Q
+    Q --> Inf1
+    Q --> Inf2
+    Orc --> Sand
+    Sand -. isolates tool calls .-> Orc
+    Orc --> DB
+    DB -. resumable state .-> Orc
+```
+
+`Zero duplicate LLM token spend` · `Prompt-injection & RCE isolation via sandboxed tool calls` · `Seamless resumption via checkpointed state`
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -157,18 +212,18 @@ Currently Focused On:
 - Multi-tenant SaaS architecture
 - Async job queues (BullMQ + Redis)
 - Event-driven pipelines & DLQs
-- Auth & access control
 - Distributed locking, idempotency
+- Saga-pattern rollback-safe transactions
 
 </td>
 <td valign="top" width="33%">
 
 ### 🤖 AI-Powered Applications
 - RAG pipelines & vector search
+- Multi-agent orchestration on GKE
 - Browser-side ML inference
-- NLP & intelligent automation
 - Explainable AI (SHAP)
-- ML deployment pipelines
+- ABAC-guarded tool execution sandboxes
 
 </td>
 <td valign="top" width="33%">
@@ -176,11 +231,48 @@ Currently Focused On:
 ### 🌍 Full Stack Platforms
 - MERN & Next.js applications
 - Real-time WebSocket dashboards
-- Payment & third-party integrations
-- Production-grade deployments
+- Payment & third-party integrations (Razorpay, FCM)
+- Production-grade deployments (GKE, Azure, VPS)
 
 </td>
 </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 💼 Experience
+
+<table>
+<tr><td width="100%">
+
+**Co-Founder & CTO — Evoc Labs Pvt. Ltd.** · *Dec 2025 – Present*
+Built and scaled a B2B SaaS platform (Node.js, PostgreSQL, Redis on VPS) serving 20+ merchants and ~2,000 daily user sessions, handling hundreds of concurrent COD orders/day at sub-second API latency under campaign traffic spikes. Owned end-to-end checkout/COD backend — order creation, status updates, reconciliation — with caching, connection pooling and idempotent operations for zero failed transactions across thousands of orders/month.
+
+</td></tr>
+<tr><td>
+
+**Full Stack Developer Intern — Modulus Seventeen** · *Aug 2026 – Sep 2026*
+Shipped full-stack features across backend, React Native app, and React web for a connected commerce & supply-chain SaaS — billing, inventory, order placement, delivery tracking — in a mobile-first ecosystem.
+
+</td></tr>
+<tr><td>
+
+**Web Development Intern — Delhi School of Management** · *Feb 2026 – Mar 2026*
+Owned end-to-end delivery of responsive portal modules deployed into live departmental workflows, replacing manual processes; worked directly with project leads under fixed academic-calendar deadlines.
+
+</td></tr>
+<tr><td>
+
+**Software Developer Intern — Oriental Solutions Pvt. Ltd.** · *Dec 2025 – Jan 2026*
+Shipped full-stack features into production and designed AI-driven bots + Python automation scripts that removed repetitive manual effort, running unattended in production.
+
+</td></tr>
+<tr><td>
+
+**Full Stack Web Developer Intern — TheBookShelves** · *Jul 2025 – Oct 2025*
+Built production RESTful APIs (Node.js, Express) powering secure MongoDB data access; re-engineered schemas and indexing strategy, cutting query latency and improving page loads.
+
+</td></tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -192,27 +284,50 @@ Currently Focused On:
 <td width="50%" valign="top">
 
 ### 🚀 Evoc Labs
-**Multi-Tenant AI-Powered E-Commerce SaaS**
+**Multi-Tenant AI-Powered B2B/D2C SaaS**
 *Co-Founder & CTO*
 
-- Scalable multi-tenant backend architecture
-- Redis + BullMQ async queue infrastructure
-- Webhook abstraction layer for logistics
-- Tenant-scoped APIs & optimized DB models
+- 20+ merchants, ~2,000 daily user sessions in production
+- Redis + connection pooling for sub-second latency under traffic spikes
+- Idempotent checkout/COD workflows — zero failed transactions
 
-`Node.js` `MongoDB` `Redis` `BullMQ` `React`
+`Node.js` `PostgreSQL` `Redis` `React`
 
 </td>
+<td width="50%" valign="top">
+
+### 🧠 AgentOS
+**Multi-Tenant AI Agent Orchestration Platform**
+
+- Containerized 11-service cluster on GKE, gRPC + Redis FIFO queue routing inference across Gemini & Mistral with zero duplicate token spend
+- ABAC-policy sandboxed tool-call execution in isolated Alpine containers, checkpointing agent state to PostgreSQL
+
+`Next.js` `Express` `Python` `gRPC` `GKE` `Redis` [🔗 GitHub]
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💸 FinPay
 **Distributed Wallet & Payment Platform**
 
-- 7-service microservices backend with Saga-pattern rollback-safe transfers
-- Redis distributed locking + idempotency keys, targeting sub-200ms p99
-- Event-driven pipeline with exponential-backoff retries + DLQ
+- 7-service microservices backend (auth, wallet, transaction, worker, notification, analytics) with Saga-pattern rollback-safe transfers
+- Redis distributed locking + idempotency keys, sub-200ms p99 latency
+- Event-driven BullMQ/PubSub pipeline with exponential-backoff retries + DLQ
 
-`Node.js` `MongoDB` `Redis` `BullMQ` `Microservices`
+`Node.js` `MongoDB` `Redis` `BullMQ` `Microservices` [🔗 GitHub]
+
+</td>
+<td width="50%" valign="top">
+
+### 🎟️ CodeSpirit
+**Event & Hackathon SaaS Platform**
+
+- Multi-role platform across web, mobile & backend, designed for 1M+ concurrent users, scaled to 1,000+ active users
+- Real-time chat, QR check-ins, RBAC, Razorpay payments — Socket.io + Redis + JWT, deployed on Azure with FCM push
+
+`Node.js` `React` `React Native` `MongoDB` `Redis` `Socket.io` [📱 Android] [🔗 Web]
 
 </td>
 </tr>
@@ -226,7 +341,7 @@ Currently Focused On:
 - Browser-side CV pipeline classifying faults from live video
 - WebSocket-streamed alerts, zero manual polling
 
-`TensorFlow.js` `Socket.io` `MERN` &nbsp; [🔗 Live Demo](https://powerline-monitor.vercel.app)
+`TensorFlow.js` `Socket.io` `MERN` [🔗 Live Demo]
 
 </td>
 <td width="50%" valign="top">
@@ -273,7 +388,7 @@ Currently Focused On:
 
 <img src="https://raw.githubusercontent.com/Piyush0000/Piyush0000/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub><i>(Requires the <a href="https://github.com/Platane/snk">snk GitHub Action</a> set up on your profile repo — happy to walk you through that if it's not live yet.)</i></sub>
+<sub><i>(Requires the <a href="https://github.com/Platane/snk">snk GitHub Action</a> set up on your profile repo.)</i></sub>
 
 </div>
 
@@ -284,9 +399,10 @@ Currently Focused On:
 <div align="center">
 
 🏅 &nbsp;**Top 4 / 500+** National Hackathon Finalist &nbsp;|&nbsp; 🏅 &nbsp;**Top 10** Finishes — Healthcare & LegalTech MVPs
-🏅 &nbsp;20+ Production & Research Projects &nbsp;|&nbsp; 🏅 &nbsp;4 Internships across AI & Full Stack
+🏅 &nbsp;20+ Production & Research Projects &nbsp;|&nbsp; 🏅 &nbsp;5 Internships across AI & Full Stack
 🏅 &nbsp;Open Source Contributor — GSSoC · SWoC · IWOC
 🏅 &nbsp;Kaggle Competition — Top 41% (1400/3433) &nbsp;|&nbsp; 🏅 &nbsp;Google AI Agents Intensive Participant
+🏅 &nbsp;100+ DSA problems solved — arrays, binary search, sorting, strings, recursion, linked lists
 
 </div>
 
